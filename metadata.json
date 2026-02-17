@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Festa Mágica IA Pro",
+  "description": "Transforme fotos em kits de festa personalizados em 2K com o poder do Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
